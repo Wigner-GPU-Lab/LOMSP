@@ -1,0 +1,5 @@
+<svg width="200" height="350" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <path d="M 10 75 Q 50 10 100 75 T 190 75" stroke="black" stroke-linecap="round" fill="none"/>
+  <path d="M 10 95 Q 50 30 100 95 T 190 95" stroke="red" stroke-linecap="round" stroke-width="1" stroke-dasharray="5,10,5" fill="none"/>
+  <path d="M 10 115 Q 50 50 100 115 T 190 115" stroke="green" stroke-linecap="round" stroke-width="4" stroke-dasharray="5,2,5" fill="none"/>
+</svg>
